@@ -1,7 +1,7 @@
 {
     "name" : "diginedbv/unirest-php",
     "description" : "Unirest PHP",
-    "version": "0.99",
+    "version": "0.99.1",
     "keywords" : ["rest", "curl", "http", "client"],
     "type" : "library",
     "homepage" : "https://github.com/diginedbv/unirest-php",
@@ -11,6 +11,11 @@
             "name" : "Mashape",
             "email" : "support@mashape.com",
             "homepage" : "http://mashape.com"
+        },
+        {
+            "name": "Digined",
+            "email": "tech@digined.com",
+            "homepage": "http://digined.com"
         }
     ],
     "require" : {
